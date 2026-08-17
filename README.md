@@ -43,3 +43,12 @@
 ### Remaining
 
 - test cases for Result<T> Success and Failure case.
+
+## Day4
+- comparison between ArrayList and LinkedList and ArrayDeque. Created collections.md file
+- Rewrite five legacy collection
+- Deliberately create a bug
+
+### Remaining
+- Implement a custom collector
+
