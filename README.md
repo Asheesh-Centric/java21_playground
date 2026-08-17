@@ -52,3 +52,13 @@
 ### Remaining
 - Implement a custom collector
 
+## Day5
+- String changes related to performance.
+- Generics erasure, Generics Type, wildcard, PECS
+
+### Remaining
+build part 3 topics left and 2 completed.
+- Demonstrate type erasure concretely: show that `List<String>` and `List<Integer>` have the same runtime class, and write the code that fails to compile because of erasure (generic array creation).
+  •	Timed kata: solve five medium string/collection problems under interview conditions — no IDE autocomplete assistance, 25 minutes each, narrating the approach out loud.
+  •	Complete the Week 1 self-assessment (20 questions, written answers, no notes) and record the score in the tracker.
+
